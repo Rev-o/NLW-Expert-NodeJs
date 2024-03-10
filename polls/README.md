@@ -5,8 +5,8 @@ This is a small polls API.
 
 It was created using the following technologies:
 
-_1. node.js_
-_2. Fastify_
-_3. redis_
-_4. postgreSQL_
+* node.js
+* Fastify
+* redis
+* postgreSQL
 
